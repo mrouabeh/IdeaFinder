@@ -9,15 +9,15 @@ const csso = require('gulp-csso');
 
 const paths = {
 	src: {
-		base: "./src/",
-		scss: "./src/scss/",
-		css: "./src/css/",
-		script: "./src/script/"
+		base: "./srcs/",
+		scss: "./srcs/scss/",
+		css: "./srcs/css/",
+		script: "./srcs/script/"
 	},
 	dist: {
-		base: "./doc",
-		css: "./doc/css",
-		script: "./doc/script"
+		base: "./docs",
+		css: "./docs/css",
+		script: "./docs/script"
 	}
 };
 
