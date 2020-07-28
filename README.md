@@ -1,6 +1,6 @@
 # Idea Finder
 
-Idea Finder is a utility that allows people who want to create a business to find a ideas.
+Idea Finder is a utility that allows people who want to create a business to find ideas.
 
 It provides several methods to guide the user and help him to find a business opportunity.
 
